@@ -63,15 +63,23 @@ used.
 
 • Genus Script file with .tcl file Extension commands are executed one by one to synthesize the netlist.
 
-#### Synthesis RTL Schematic :
+## Synthesis RTL Schematic :
 
-#### Area report:
+![image](https://github.com/user-attachments/assets/eed3f880-d869-4da3-abe2-1eda0a49b4a1)
 
-#### Power Report:
+## Area report:
 
-#### Timing Report: 
+![image](https://github.com/user-attachments/assets/10d28ecb-8bce-4f99-80af-67fa7b2dfa97)
 
-#### Result: 
+## Power Report:
+
+![image](https://github.com/user-attachments/assets/6fa8afca-e319-4282-b76e-87fc3422d4fc)
+
+## Timing Report: 
+
+![image](https://github.com/user-attachments/assets/de55ac19-dbfe-428d-ad01-9972e5f3d909)
+
+## Result: 
 
 The generic netlist has been created, and area, power, and timing reports have been tabulated and generated using Genus.
 
